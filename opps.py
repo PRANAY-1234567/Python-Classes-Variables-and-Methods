@@ -6,7 +6,6 @@ class Bank:
     def Data(self):
         print(f'Holder Name is {Bank.Holder}\n'
               f'Total Balance is {Bank.bal}')
-
 b=Bank()
 b.Data()
 #Modification through object
