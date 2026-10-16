@@ -76,7 +76,6 @@ Because the object does not have its own attributes with these names, Python ret
 ### 3. Flipkart — Calling One Method from Another
 
 This example demonstrates how one instance method can call another instance method.
-
 Inside `Data()`, the code calls:
 
 ```python
@@ -249,3 +248,4 @@ After completing this project, you should understand:
 **Pranay Jadhao**
 
 Learning Python, Object-Oriented Programming, and software development.
+
