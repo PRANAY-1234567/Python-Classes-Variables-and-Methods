@@ -124,7 +124,6 @@ class School:
 School.sub=("Python")
 School.display()'''
 
-
 '''
 class School:
     sub = "SQL"
