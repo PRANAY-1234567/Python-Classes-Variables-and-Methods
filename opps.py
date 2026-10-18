@@ -59,7 +59,8 @@ f=Flipkart()
 f.Data()
 f.Information()'''
 
-'''class Student:
+'''
+class Student:
     def Information(self):
         self.name="Ravi"
         self.age=23
