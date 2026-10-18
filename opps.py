@@ -71,7 +71,8 @@ class Student:
               f'student subject is {self.sub}')'''
 
 
-'''class Mock:
+'''
+class Mock:
     def study(self, name,subject, rating):
         self.name = name           #self.n=name
         self.subject = subject     #self.s=subject
