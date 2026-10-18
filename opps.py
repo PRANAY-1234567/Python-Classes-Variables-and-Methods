@@ -101,7 +101,8 @@ e= Evening()
 print(e)
 e.demo()'''
 
-'''class School:
+'''
+class School:
     sub = "SQL"
     @classmethod
     def display(cls):
