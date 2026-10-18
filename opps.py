@@ -16,7 +16,8 @@ Bank.Holder='Joy'
 Bank.bal=5000
 b.Data()'''
 
-'''class Flipkart:
+'''
+class Flipkart:
     total_item=12
     add="Pune"
     def Data(self):
