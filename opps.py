@@ -29,7 +29,8 @@ f=Flipkart()
 f.Data()
 f.Information()'''
 
-'''class Flipkart:
+'''
+class Flipkart:
     total_item=12
     add="Pune"
     def Data(self):
