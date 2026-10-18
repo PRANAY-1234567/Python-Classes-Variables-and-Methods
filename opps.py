@@ -88,7 +88,8 @@ m.study("C", "Web_tech", "5")
 print()'''
 
 
-'''class Evening:
+'''
+class Evening:
     @classmethod
     def demo(cls):
         def demo(pranay):
