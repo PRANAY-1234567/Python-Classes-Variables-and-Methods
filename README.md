@@ -3,9 +3,7 @@
 ## 📌 Overview
 
 This project demonstrates fundamental concepts of Python Object-Oriented Programming (OOP) through practical examples.
-
 It explores how classes and objects work, how class variables and instance variables differ, how instance methods access object data, and how class methods modify class-level attributes.
-
 The examples use real-world scenarios such as banking, online shopping, student information, and school subjects.
 
 ## 🎯 Concepts Covered
